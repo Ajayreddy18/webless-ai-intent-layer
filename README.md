@@ -1,31 +1,195 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Webless AI Intent Layer Prototype
 
-## Getting Started
+An exploratory prototype for adaptive AI-native websites that dynamically restructure experiences based on visitor intent and AI-agent context.
 
-First, run the development server:
+Built as a rapid product-direction experiment around the idea of an **AI Intent Layer** for the web.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Traditional websites are static.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This prototype explores a different direction:
 
-## Learn More
+> Websites that adapt in real time based on who (or what) is visiting.
 
-To learn more about Next.js, take a look at the following resources:
+The system detects visitor intent through conversational interaction and dynamically restructures:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* content hierarchy
+* semantic context
+* GEO layers
+* AI-readable metadata
+* navigation priorities
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The goal is to move beyond static SEO/GEO into:
 
+* adaptive AI-native experiences
+* machine-readable websites
+* intent-aware interfaces
+* agent-compatible web infrastructure
+
+---
+
+# Core Concept
+
+Different visitors should experience different website structures.
+
+Examples:
+
+### Investor Visitor
+
+* traction metrics prioritized
+* growth signals surfaced
+* fundraising context highlighted
+
+### Developer Visitor
+
+* APIs/docs become primary
+* SDK workflows surfaced
+* semantic infrastructure exposed
+
+### Customer Visitor
+
+* conversion flows optimized
+* personalized journeys emphasized
+* adaptive CTAs generated
+
+### AI Agent / Crawler
+
+* structured semantic layers exposed
+* machine-readable metadata prioritized
+* GEO-ready context surfaced
+
+---
+
+# Features
+
+## Adaptive Intent Engine
+
+Detects visitor intent using conversational inputs and dynamically changes the UI experience.
+
+## Semantic Layer Simulation
+
+Real-time machine-readable structured context generation.
+
+## GEO-Oriented Experience
+
+Explores how websites could optimize for:
+
+* AI discovery
+* semantic relevance
+* citation readiness
+* agent-native indexing
+
+## Semantic Crawler Simulation
+
+Simulates how AI agents/crawlers interpret:
+
+* semantic relevance
+* metadata
+* structured entities
+* contextual signals
+
+## Real-Time AI Activity Feed
+
+Visual simulation of:
+
+* semantic indexing
+* GEO optimization
+* adaptive restructuring
+* AI inference workflows
+
+## Conversational Website Interface
+
+Prototype AI assistant capable of:
+
+* understanding visitor goals
+* triggering adaptive UI restructuring
+* changing semantic context dynamically
+
+---
+
+# Tech Stack
+
+* Next.js 16
+* React
+* TypeScript
+* TailwindCSS
+* Framer Motion
+
+---
+
+# Product Direction Explored
+
+This prototype is intentionally exploratory.
+
+The focus was:
+
+* validating interaction patterns
+* exploring adaptive GEO concepts
+* demonstrating semantic restructuring
+* visualizing AI-native website infrastructure
+
+rather than building production-ready systems.
+
+---
+
+# Why This Matters
+
+As AI agents increasingly browse, summarize, retrieve, and reason over websites, the web itself may need to evolve from:
+
+* static pages
+
+to:
+
+* adaptive semantic systems
+
+This prototype explores one possible direction for that evolution.
+
+---
+
+# Future Directions
+
+Potential extensions:
+
+* real LLM-powered intent classification
+* semantic graph generation
+* adaptive layout orchestration
+* AI-agent analytics
+* structured citation generation
+* multi-agent interaction layers
+* real-time GEO scoring
+* dynamic content assembly pipelines
+
+---
+
+# Demo Flow
+
+1. Visitor interacts with AI assistant
+2. Intent detected dynamically
+3. Website restructures in real time
+4. Semantic layer updates
+5. AI crawler simulation adapts
+6. GEO/AI-readable context changes
+
+---
+
+# Notes
+
+This was built as a rapid prototype focused on:
+
+* product thinking
+* adaptive interaction design
+* semantic UX concepts
+* AI-native web infrastructure exploration
+
+Frontend polish and production optimization were intentionally deprioritized in favor of quickly validating the core concept.
+
+---
+
+# Author
+
+Ajay Reddy
+
+Exploring AI-native systems, adaptive interfaces, semantic infrastructure, and agent-oriented web experiences.
